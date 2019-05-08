@@ -50,8 +50,8 @@ Info in “NGS-15 Analysis Required Information.xlsx”. Overview:
 - Bulk & Titration Plates
 
 
-NGS experiments that used for the manuscript
---------------------------------------------
+NGS experiments that are used for the manuscript
+------------------------------------------------
 
 Genotyping:
 
@@ -61,6 +61,6 @@ Genotyping:
 
 Transcriptomics:
 
-- NGS12 - Lib1 & Lib3
 - NGS15 - Lib1 & Lib2
-- NGS17
+- NGS16 - Lib1, Lib2, & Lib3
+- NGS25 - Lib1 & Lib2
